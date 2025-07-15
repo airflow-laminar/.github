@@ -33,4 +33,4 @@ A collection of utilities to make [Airflow](https://airflow.apache.org) *smoothe
 
 ## Examples
 
-See [Validation DAGs](https://github.com/airflow-laminar/airflow-laminar) for working examples utilizing all of the above.
+See [Validation DAGs](https://github.com/airflow-laminar/validation-dags) for working examples utilizing all of the above.
